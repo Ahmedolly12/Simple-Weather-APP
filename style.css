@@ -10,7 +10,7 @@
   align-items: center;
   justify-content: center;
   flex-direction: column;
-  background: #1B4D3E;
+  background-image: url(./asset/backgrnd.jpg);
   color: white;
   font-size: 50px;
   font-family: Arial, Helvetica, sans-serif;

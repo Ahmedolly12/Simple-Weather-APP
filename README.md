@@ -1,0 +1,1 @@
+The simple weather App gives description of the current location of the user
