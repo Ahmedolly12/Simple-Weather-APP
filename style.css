@@ -1,0 +1,40 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.container {
+  height: 100vh;
+  width: 100vw;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  background: #1B4D3E;
+  color: white;
+  font-size: 50px;
+  font-family: Arial, Helvetica, sans-serif;
+  
+}
+.weather {
+  display: flex; 
+  align-items: center;
+  margin: 15px 0;
+  font-size: 3rem;
+}
+#location {
+  font-size: 5rem;
+  font-weight: 800;
+  font-style: italic;
+}
+.desc {
+  font-size: 3rem;
+  text-transform: capitalize;
+}
+.circle {
+  background-color: white;
+  border-radius: 50px;
+  height: 15px;
+  width: 15px;
+  margin: 0 15px;
+}
